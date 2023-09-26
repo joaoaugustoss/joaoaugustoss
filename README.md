@@ -1,6 +1,6 @@
 ## Hi! I'm João Augusto 👋
 
-### Computer Science 5/8 🖥
+### Computer Science 6/8 🖥
 
 ##
 
