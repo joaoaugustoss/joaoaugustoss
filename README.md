@@ -10,17 +10,17 @@ I'm a passionate Computer Science Student and Researcher with a love for Data Sc
 
 - **Estudo do Comportamento de Consumo de Bebida em Centros Urbanos usando Redes de Sensoriamento Participativo**  
   *VII Workshop de Computação Urbana (CoUrb 2023)*  
-  May 2023
+  May 2023  
   João Silva, Felipe Cunha, and Silvio Guimarães, [Link to Paper](https://doi.org/10.5753/courb.2023.774)
 
 - **Análise da Mobilidade Urbana por meio de Redes Sociais Baseadas em Localização: Estudo de Caso em Cidades Inteligentes**  
   *XXXVIII Simpósio Brasileiro de Bancos de Dados (SBBD 2023) - Workshop de Trabalhos de Alunos da Graduação (WTAG)*  
-  September 2023
+  September 2023  
   João Silva, Felipe Cunha, and Silvio Guimarães, [Link to Paper](https://doi.org/10.5753/sbbd_estendido.2023.233144)
   
 - **Simulador do Algoritmo de Tomasulo com Conjunto de Instruções RISC-V**  
   *XXIV Simpósio de Sistemas Computacionais de Alto Desempenho - Workshop de Iniciação Científica (WSCAD-WIC)*  
-  October 2023 
+  October 2023  
   Thiago Nolasco, Danielle Vieira, João Silva, Henrique Freitas, [Link to Paper](https://cradrs.github.io/sbacpad2023/pdfs/wscad-wic/s1p1.pdf)
   
 - **Aprendendo Hierarquia de Memória e a Exploração das Localidades Espacial e Temporal com o Simulador Amnesia**  
