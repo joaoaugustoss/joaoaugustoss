@@ -1,6 +1,6 @@
 ## Hi! I'm João Augusto 👋
 
-I'm a passionate Computer Science student with a love for Data Science and Urban Computing. My goal is to [Your Goal or Mission Statement]. I enjoy tackling challenging problems and building innovative solutions that make a positive impact.
+I'm a passionate Computer Science Student and Researcher with a love for Data Science and Urban Computing.
 
 🌱 I'm currently working on research projects.
 
