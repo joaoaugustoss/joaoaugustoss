@@ -2,7 +2,7 @@
 
 I'm a passionate Computer Science Student and Researcher with a love for Data Science and Urban Computing.
 
-🌱 I'm currently working on research projects.
+🌱 I'm currently working DTI Digital as Data Analysis and research projects.
 
 💬 Ask me about Data Science, Urban Computing, Computer Architecture, Software Development.
 
