@@ -31,7 +31,7 @@ I'm a passionate Computer Science Student and Researcher with a love for Data Sc
   
 
 
-### Computer Science 6/8 🖥
+### Computer Science 7/8 🖥
 
 ##
 
