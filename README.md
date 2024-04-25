@@ -2,7 +2,7 @@
 
 I'm a passionate Computer Science Student and Researcher with a love for Data Science and Urban Computing.
 
-🌱 I'm currently working DTI Digital as Data Analyst and research projects.
+🌱 I'm currently working at Super App Inter as Data Science intern and research projects at University.
 
 💬 Ask me about Data Science, Urban Computing, Computer Architecture, Software Development.
 
