@@ -2,7 +2,7 @@
 
 I'm a passionate Computer Science Student and Researcher with a love for Data Science and Urban Computing.
 
-🌱 I'm currently working at Google as Software Engineering intern and research projects at University.
+🌱 I'm a former Software Engineering intern at Google.
 
 💬 Ask me about Data Science, Urban Computing, Computer Architecture, Software Development.
 
@@ -31,7 +31,8 @@ I'm a passionate Computer Science Student and Researcher with a love for Data Sc
   
 
 
-### Computer Science 8/8 🖥
+### Computer Science Bachelor at PUC Minas 🖥
+### MSc candidate in Computer Science at Unicamp 🖥
 
 ##
 
