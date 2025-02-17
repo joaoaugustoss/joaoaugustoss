@@ -8,6 +8,11 @@ I'm a passionate Computer Science Student and Researcher with a love for Data Sc
 
 ## Publications
 
+- **Mapping High Risk Drinking Locations from Different Clustering Methods**  
+  *Journal of Internet Services and Applications (JISA)*  
+  November 2024  
+  João Silva, Felipe Cunha, and Silvio Guimarães, [Link to Paper](https://doi.org/10.5753/jisa.2024.3817)
+
 - **Estudo do Comportamento de Consumo de Bebida em Centros Urbanos usando Redes de Sensoriamento Participativo**  
   *VII Workshop de Computação Urbana (CoUrb 2023)*  
   May 2023  
