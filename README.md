@@ -2,6 +2,8 @@
 
 I'm a passionate Computer Science Student and Researcher with a love for Data Science and Urban Computing.
 
+🌱 I'm currently pursuing a MSc at Universidade Estadual de Campinas
+
 🌱 I'm a former Software Engineering intern at Google.
 
 💬 Ask me about Data Science, Urban Computing, Computer Architecture, Software Development.
