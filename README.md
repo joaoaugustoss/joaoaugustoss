@@ -10,6 +10,11 @@ I'm a passionate Computer Science Student and Researcher with a love for Data Sc
 
 ## Publications
 
+- **Impacto da Imputação de Dados na Predição da Qualidade do Ar: Um Estudo de Caso em Congonhas-MG**  
+  *IX Workshop de Computação Urbana (CoUrb 2025)*  
+  May 2025  
+  João Silva, and Felipe Cunha, [Link to Paper](https://doi.org/10.5753/courb.2025.8700)
+
 - **Mapping High Risk Drinking Locations from Different Clustering Methods**  
   *Journal of Internet Services and Applications (JISA)*  
   November 2024  
